@@ -2,10 +2,10 @@
   "name": "pmv-ads-2022-1-e1-proj-web-t11-gp6-gestao-de-processos-master",
   "version": "1.0.0",
   "description": "`Análise e Desenvolvimento de Sistemas - ADS`",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    // "start": "npx json-server --watch db.json"
-    "start": "node index.js"
+    "start": "npx json-server --watch db.json"
+    // "start": "node server.js"
   },
   "keywords": [],
   "author": "",
