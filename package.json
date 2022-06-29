@@ -4,11 +4,8 @@
   "description": "`Análise e Desenvolvimento de Sistemas - ADS`",
   "main": "index.js",
   "scripts": {
-    "start": "npx json-server --watch db.json"
-<<<<<<< HEAD
-    // "start": "node index.js"
-=======
->>>>>>> 67a77fb8ad727567dd3d42decd170e369c09e758
+    // "start": "npx json-server --watch db.json"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
