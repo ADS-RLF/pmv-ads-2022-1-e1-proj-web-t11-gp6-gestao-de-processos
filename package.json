@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
   "start": "npx json-server --watch db.json"
-   // "start": "node index.js"
   },
   "keywords": [],
   "author": "",
