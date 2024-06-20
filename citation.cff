@@ -1,0 +1,26 @@
+message: Please cite this software using these metadata.
+title:
+authors:
+  - family-names: Xavier De Amorim
+    given-names: Armando
+  - family-names: Victor Fraga Menighin
+    given-names: Diego
+  - family-names: Araruna de Lima
+    given-names: Lia
+  - family-names: Claudio Junior Amaduro da Rocha
+    given-names: Luís
+  - family-names: Eduardo Tavares Costa
+    given-names: Luiz
+  - family-names: Liberato Ferreira
+    given-names: Renato
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Assis Alves da Silva
+    given-names: Simone
+keywords:
+  - gestão
+  - processos
+  - organização
+repository-code: https://github.com/ADS-RLF/pmv-ads-2022-1-e1-proj-web-t11-gp6-gestao-de-processos
+version: 1.0.0
+date-released: 2022-06-20
